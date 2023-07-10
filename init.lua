@@ -1,0 +1,7 @@
+require("npadhya.plugins-setup")
+require("npadhya.core.options")
+require("npadhya.core.keymaps")
+require("npadhya.core.colorscheme")
+require("npadhya.plugins.comment")
+require("npadhya.plugins.nvim-tree")
+require("npadhya.plugins.lualine")
